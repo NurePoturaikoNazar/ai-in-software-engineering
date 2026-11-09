@@ -1,6 +1,6 @@
 # 07 Prototype P1 — протокол проходження (ШАБЛОН)
 
-Проєкт: Mini Issue Tracker. Дата проходження: 08.11.2026. Оператор:Невмовенко Всеволод. Робоча версія Figma: _[назва/дата]_. Статус: заповнюється під час Present.
+Проєкт: Mini Issue Tracker. Дата проходження: 08.11.2026. Оператор: Невмовенко Всеволод. Робоча версія Figma: 08.11.2026. Статус: заповнюється під час Present.
 
 **Figma file:** _[https://www.figma.com/design/...]_
 **Prototype link (Present):** _[https://www.figma.com/proto/...]_
